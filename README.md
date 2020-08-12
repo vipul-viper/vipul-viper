@@ -1,10 +1,6 @@
 
 
 
-
-Here are some ideas to get you started:
-
-
 Hii There My name is Vipul Saklani.
 
   I am an aspiring engineer.Studing in 4 th year of Btech Computer Science and engineering from National Institute of Technology Uttarakhand.
