@@ -3,7 +3,7 @@
 
 Hii There My name is Vipul Saklani.
 
-  I am an aspiring engineer.Studing in 4 th year of Btech Computer Science and engineering from National Institute of Technology Uttarakhand.
+  I am an aspiring engineer.Studing in 4 th year of Btech Computer Science and engineering 
   
   I want to develop opensource code for each and every task so that Development of new products become easier for all. My personal interest is in developing Apis through Node js.
   
