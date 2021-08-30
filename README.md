@@ -1,17 +1,6 @@
 
 
 
-Hii There My name is Vipul Saklani.
-
-  I am an aspiring engineer.Studing in 4 th year of Btech Computer Science and engineering 
-  
-  I want to develop opensource code for each and every task so that Development of new products become easier for all. My personal interest is in developing Apis through Node js.
-  
-  I like working with framework like Django due to its security and scalability.
-  
-  I know working with React and it is my speciality 
-  
-  I love coding in Java due to its versatility and inbuilt datastructures like PQueues.
   
                         TECHNOLOGIES LIKE KNOW
 * [ReactJs] - Web framework javascript
